@@ -1,0 +1,15 @@
+{
+  "author": "Connor Montgomery <c@cnnr.me> (http://cnnr.me)",
+  "name": "xbox-node",
+  "description": "A wrapper to query the xbox search API",
+  "version": "0.1.0",
+  "dependencies": {
+    "request": "*",
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "main": "lib/xbox",
+  "engines": {
+    "node": "*"
+  }
+}
