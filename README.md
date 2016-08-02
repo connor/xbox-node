@@ -35,7 +35,7 @@ And searching for XBOX 360 TITLES:
 
 ```js
 
-xbox.searchOne("halo", function(response) {
+xbox.search360("halo", function(response) {
 
   // do whatever you want with the response.
   // the response is in JSON
